@@ -59,7 +59,7 @@
   
       &#{$infix} {
         @include media-breakpoint-down($breakpoint){
-            .form-inline, .nav-item {
+            .form-inline, .nav-item, button, .btn {
                 margin-top: 10px;
                 margin-bottom: 10px;
             }

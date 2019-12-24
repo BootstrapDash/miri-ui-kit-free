@@ -8617,7 +8617,7 @@ footer {
   padding-bottom: 34px; }
 
 @media (max-width: 575.98px) {
-  .navbar-expand-sm .form-inline, .navbar-expand-sm .nav-item {
+  .navbar-expand-sm .form-inline, .navbar-expand-sm .nav-item, .navbar-expand-sm button, .navbar-expand-sm .btn {
     margin-top: 10px;
     margin-bottom: 10px; } }
 
@@ -8645,7 +8645,7 @@ footer {
     display: block; } }
 
 @media (max-width: 767.98px) {
-  .navbar-expand-md .form-inline, .navbar-expand-md .nav-item {
+  .navbar-expand-md .form-inline, .navbar-expand-md .nav-item, .navbar-expand-md button, .navbar-expand-md .btn {
     margin-top: 10px;
     margin-bottom: 10px; } }
 
@@ -8673,7 +8673,7 @@ footer {
     display: block; } }
 
 @media (max-width: 991.98px) {
-  .navbar-expand-lg .form-inline, .navbar-expand-lg .nav-item {
+  .navbar-expand-lg .form-inline, .navbar-expand-lg .nav-item, .navbar-expand-lg button, .navbar-expand-lg .btn {
     margin-top: 10px;
     margin-bottom: 10px; } }
 
@@ -8701,7 +8701,7 @@ footer {
     display: block; } }
 
 @media (max-width: 1199.98px) {
-  .navbar-expand-xl .form-inline, .navbar-expand-xl .nav-item {
+  .navbar-expand-xl .form-inline, .navbar-expand-xl .nav-item, .navbar-expand-xl button, .navbar-expand-xl .btn {
     margin-top: 10px;
     margin-bottom: 10px; } }
 
@@ -8728,7 +8728,7 @@ footer {
   .navbar-expand-xl .dropdown:hover .dropdown-menu {
     display: block; } }
 
-.navbar-expand .form-inline, .navbar-expand .nav-item {
+.navbar-expand .form-inline, .navbar-expand .nav-item, .navbar-expand button, .navbar-expand .btn {
   margin-top: 10px;
   margin-bottom: 10px; }
 

@@ -56,6 +56,10 @@ body {
 
 .card-demo-wrapper {
     padding: 30px 25px;
+
+    .navbar {
+        z-index: 0;
+    }
 }
 
 .demo-color-box {

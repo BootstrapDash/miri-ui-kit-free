@@ -45,6 +45,8 @@ body {
 
 .card-demo-wrapper {
   padding: 30px 25px; }
+  .card-demo-wrapper .navbar {
+    z-index: 0; }
 
 .demo-color-box {
   display: inline-block;
